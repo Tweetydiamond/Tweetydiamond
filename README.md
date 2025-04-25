@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tweetydiamond
 - 👀 I’m interested in anything data
-- 🌱 I’m currently sharperning my sql and python skills
+- 🌱 I’m currently sharperning my sql and python skills and recently softtware dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
